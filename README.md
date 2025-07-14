@@ -1,4 +1,4 @@
-# traffic-light-checker
+# P5_traffic-light-checker
 
 # 🚦 Traffic Light Checker — Python Project
 
